@@ -22,6 +22,8 @@ API for Key Vault
 
 returns id of master-seed
 
+void generateMasterSeed(int num_words)
+
 int setMasterSeed(24 words)
 
 return id of account-seed
